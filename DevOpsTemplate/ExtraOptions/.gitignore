@@ -1,0 +1,7 @@
+*.log
+*.zip
+*.dll
+*.exe
+*.vscode
+*.vs
+.publish
